@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Диплом 2026/Идеи/Seagull/Seagull.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seagull"
+            }
+          },
+          {
+            "id": "ec978699ff238bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Диплом 2026/Идеи/Seagull/Features list.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Features list"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db47c9250c3f8f1b",
+  "active": "ec978699ff238bd2",
   "lastOpenFiles": [
     "Диплом 2026/Идеи/Seagull/Seagull.md",
     "Диплом 2026/Идеи/Seagull/Features list.md",
