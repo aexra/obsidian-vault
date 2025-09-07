@@ -1,0 +1,1 @@
+[[Drawing 2025-09-07 13.49.12.excalidraw | center | 700]]
